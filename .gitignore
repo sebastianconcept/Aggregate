@@ -4,6 +4,7 @@ pharo-vm/
 pharo
 pharo-ui
 AggregateTest/
+AggregateSecondaryTest/
 OmniBase/
 Aggregate/
 

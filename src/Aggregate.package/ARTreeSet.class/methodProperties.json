@@ -1,14 +1,14 @@
 {
 	"class" : {
-		"defaultEqualitySelector" : "sebastian.sastre 11/19/2009 18:45",
-		"defaultKeys" : "sebastian.sastre 11/21/2009 13:08",
-		"order:" : "sebastian.sastre 11/21/2009 13:05" },
+		"defaultEqualitySelector" : "SebastianSastre 3/5/2014 17:43:36",
+		"defaultKeys" : "SebastianSastre 3/5/2014 17:43:36",
+		"order:" : "SebastianSastre 3/5/2014 17:43:36" },
 	"instance" : {
-		"add:" : "sebastiansastre 5/3/2012 11:18",
-		"addAll:" : "sebastian.sastre 3/7/2011 20:25",
-		"fixKeys" : "sebastian.sastre 11/19/2009 18:38",
-		"ifAbsentAdd:" : "sebastiansastre 5/2/2012 15:52",
-		"initializeWithKeys:sortSelector:equalitySelector:" : "sebastian.sastre 11/19/2009 20:13",
-		"remove:" : "sebastian.sastre 3/7/2011 20:25",
-		"removeAllSuchThat:" : "sebastian.sastre 3/7/2011 20:26",
-		"species" : "sebastiansastre 10/13/2011 10:08" } }
+		"add:" : "SebastianSastre 3/5/2014 17:43:36",
+		"addAll:" : "SebastianSastre 3/5/2014 17:43:36",
+		"fixKeys" : "SebastianSastre 3/5/2014 17:43:36",
+		"ifAbsentAdd:" : "SebastianSastre 3/5/2014 17:43:36",
+		"initializeWithKeys:sortSelector:equalitySelector:" : "SebastianSastre 3/5/2014 17:43:36",
+		"remove:" : "SebastianSastre 3/5/2014 17:43:36",
+		"removeAllSuchThat:" : "SebastianSastre 3/5/2014 17:43:36",
+		"species" : "SebastianSastre 3/5/2014 17:43:36" } }
