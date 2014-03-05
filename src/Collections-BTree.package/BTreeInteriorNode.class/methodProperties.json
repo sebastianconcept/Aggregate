@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"childForKey:" : "lr 4/15/2009 09:50",
+		"childrenDo:" : "avi 2/23/2004 21:47",
+		"commonKeysWith:keysAndValuesDo:flip:" : "lr 4/15/2009 09:50",
+		"depth" : "avi 4/21/2005 02:28",
+		"existingChildForKey:" : "lr 4/15/2009 09:50",
+		"existingLeafForKey:" : "lr 4/15/2009 09:50",
+		"first" : "lr 10/8/2009 12:55",
+		"firstChild" : "avi 2/24/2004 00:39",
+		"insertKey:value:at:" : "avi 2/24/2004 12:05",
+		"isLeaf" : "avi 2/24/2004 00:22",
+		"last" : "lr 10/8/2009 12:56",
+		"leafForKey:" : "avi 2/24/2004 01:59",
+		"leavesFrom:to:do:" : "lr 4/15/2009 09:50",
+		"nextSiblingForChild:" : "lr 4/15/2009 09:50",
+		"updateKey:to:" : "avi 1/11/2005 13:13" } }

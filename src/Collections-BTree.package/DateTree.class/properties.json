@@ -1,0 +1,16 @@
+{
+	"category" : "Collections-BTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"startTimes",
+		"endTimes",
+		"events" ],
+	"name" : "DateTree",
+	"pools" : [
+		 ],
+	"super" : "Collection",
+	"type" : "normal" }

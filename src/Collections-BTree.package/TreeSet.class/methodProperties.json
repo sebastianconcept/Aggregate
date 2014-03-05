@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "lr 4/15/2009 09:50",
+		"addAll:" : "lr 4/15/2009 09:50",
+		"atIndex:" : "lr 4/15/2009 09:50",
+		"bucket:includes:" : "avi 5/21/2004 12:18",
+		"do:" : "avi 3/2/2004 11:16",
+		"equalitySelector" : "lr 4/15/2009 09:50",
+		"first" : "ac 5/17/2005 14:07",
+		"includes:" : "lr 4/15/2009 09:50",
+		"initializeWithKeys:sortSelector:equalitySelector:" : "avi 5/1/2005 14:52",
+		"intersection:" : "lr 4/15/2009 09:50",
+		"isCompatibleTreeSetWith:" : "avi 5/1/2005 15:26",
+		"isTreeSet" : "avi 5/1/2005 14:10",
+		"keyForValue:" : "avi 3/2/2004 15:01",
+		"remove:" : "lr 4/15/2009 09:50",
+		"remove:ifAbsent:" : "lr 5/3/2005 17:24",
+		"removeAllSuchThat:" : "lr 4/15/2009 09:50",
+		"second" : "ac 5/17/2005 14:07",
+		"setTree:sortSelector:equalitySelector:" : "lr 4/15/2009 09:50",
+		"sortSelector" : "avi 4/21/2005 02:45",
+		"tree" : "avi 4/20/2005 14:16",
+		"tree:" : "lr 4/15/2009 09:50",
+		"value:matches:" : "avi 5/1/2005 15:51" } }

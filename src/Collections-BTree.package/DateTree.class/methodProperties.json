@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"at:" : "bmp 9/13/2005 22:25",
+		"at:ifAbsent:" : "bmp 9/13/2005 22:25",
+		"at:ifAbsentPut:" : "bmp 9/14/2005 02:48",
+		"at:put:" : "bmp 9/14/2005 02:49",
+		"between:and:" : "lr 4/15/2009 09:50",
+		"between:and:keysAndValuesDo:" : "bmp 9/15/2005 17:35",
+		"do:" : "bmp 9/13/2005 21:40",
+		"during:" : "bmp 9/13/2005 22:46",
+		"endTimes" : "lr 10/8/2009 17:18",
+		"first" : "lr 10/8/2009 14:37",
+		"initialize" : "avi 10/15/2005 19:56",
+		"keys" : "lr 4/15/2009 09:50",
+		"keysAndValuesDo:" : "bmp 9/14/2005 02:50",
+		"last" : "lr 10/8/2009 14:28",
+		"removeKey:" : "bmp 9/14/2005 03:08",
+		"removeKey:ifAbsent:" : "ac 11/17/2005 15:14",
+		"startTimes" : "lr 10/8/2009 17:18",
+		"within:of:" : "bmp 9/13/2005 22:45" } }

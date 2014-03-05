@@ -1,0 +1,15 @@
+{
+	"category" : "Collections-BTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parent",
+		"keys" ],
+	"name" : "BTreeNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "variable" }

@@ -3,6 +3,9 @@
 pharo-vm/
 pharo
 pharo-ui
+AggregateTest/
+OmniBase/
+Aggregate/
 
 # Smalltalk related binary files #
 ##################################

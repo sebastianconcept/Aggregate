@@ -1,0 +1,15 @@
+{
+	"category" : "Collections-BTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"root",
+		"emptyValue" ],
+	"name" : "TSTree",
+	"pools" : [
+		 ],
+	"super" : "Collection",
+	"type" : "normal" }

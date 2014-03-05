@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"key:" : "avi 9/22/2004 01:03" },
+	"instance" : {
+		"canBeCulled" : "RamonLeon 5/5/2011 23:20",
+		"cullNode:" : "lr 4/15/2009 09:50",
+		"do:" : "avi 9/22/2004 01:00",
+		"initializeWithKey:" : "lr 4/15/2009 09:50",
+		"keysAndValuesDo:prefix:" : "lr 4/15/2009 09:50",
+		"lookupString:startingAt:" : "avi 12/13/2004 13:26",
+		"lookupString:startingAt:insert:" : "avi 9/22/2004 01:41",
+		"lookupString:startingAt:whenFound:whenNil:recurseWith:" : "avi 9/22/2004 01:04",
+		"matchesForPrefix:startingAt:do:" : "avi 9/22/2004 01:04",
+		"matchesForString:startingAt:distance:do:nodesDo:" : "avi 10/20/2004 21:27",
+		"newNodeWithKey:" : "avi 9/22/2004 01:41",
+		"nodesDo:" : "avi 9/22/2004 00:51",
+		"removeString:startingAt:" : "lr 4/15/2009 09:50",
+		"value" : "avi 9/22/2004 00:51",
+		"value:" : "lr 4/15/2009 09:50" } }

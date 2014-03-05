@@ -1,0 +1,16 @@
+{
+	"category" : "Collections-BTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"keys",
+		"prefix",
+		"abbreviations" ],
+	"name" : "BTreeStringKeys",
+	"pools" : [
+		 ],
+	"super" : "BTreeKeys",
+	"type" : "normal" }

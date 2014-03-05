@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"new" : "avi 2/25/2004 14:31",
+		"new:" : "avi 2/26/2004 00:04" },
+	"instance" : {
+		"abbreviationSize" : "avi 3/2/2004 18:00",
+		"abbreviationsAndIndicesDo:" : "lr 4/15/2009 09:50",
+		"at:" : "avi 3/2/2004 15:41",
+		"at:put:" : "lr 4/15/2009 09:50",
+		"buildAbbreviationsFrom:" : "lr 4/15/2009 09:50",
+		"extractPrefixFrom:" : "lr 4/15/2009 09:50",
+		"findIndexForKey:" : "lr 4/15/2009 09:50",
+		"initializeWithSize:" : "lr 4/15/2009 09:50",
+		"nilPrefix" : "avi 3/2/2004 18:51",
+		"rebuildAbbreviations" : "lr 4/15/2009 09:50",
+		"size" : "avi 3/2/2004 16:47" } }

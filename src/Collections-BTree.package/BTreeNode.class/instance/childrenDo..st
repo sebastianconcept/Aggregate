@@ -1,0 +1,3 @@
+enumerating
+childrenDo: aBlock
+	self subclassResponsibility

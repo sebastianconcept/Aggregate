@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"at:" : "avi 9/15/2004 21:11",
+		"at:ifAbsent:" : "avi 9/7/2005 21:55",
+		"at:ifAbsentPut:" : "avi 9/15/2004 21:11",
+		"at:put:" : "lr 4/15/2009 09:50",
+		"do:" : "avi 9/7/2005 21:56",
+		"keys" : "avi 8/11/2005 13:33",
+		"keysAndValuesDo:" : "avi 9/7/2005 21:55",
+		"matchesForPrefix:" : "avi 9/15/2004 21:59",
+		"matchesForPrefix:do:" : "avi 9/22/2004 00:57",
+		"matchesForString:distance:" : "avi 9/15/2004 15:21",
+		"matchesForString:distance:do:" : "avi 10/20/2004 21:26",
+		"matchesForString:distance:limitNodes:do:" : "lr 4/15/2009 09:50",
+		"removeKey:" : "avi 12/13/2004 13:09",
+		"removeKey:ifAbsent:" : "lr 4/15/2009 09:50",
+		"values" : "avi 9/15/2004 21:34" } }
