@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"label" ],
+	"name" : "ARDummyTag",
+	"pools" : [
+		 ],
+	"super" : "ARPersistentModel",
+	"type" : "normal" }

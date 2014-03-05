@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARKeyAlreadyStored",
+	"pools" : [
+		 ],
+	"super" : "ARError",
+	"type" : "normal" }

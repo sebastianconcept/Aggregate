@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARCantStoreNil",
+	"pools" : [
+		 ],
+	"super" : "ARError",
+	"type" : "normal" }

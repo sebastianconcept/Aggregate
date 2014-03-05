@@ -1,0 +1,4 @@
+private
+nameKeySize
+
+	^ 64

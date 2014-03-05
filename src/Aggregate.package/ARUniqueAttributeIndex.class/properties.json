@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Indices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARUniqueAttributeIndex",
+	"pools" : [
+		 ],
+	"super" : "ARClassIndex",
+	"type" : "normal" }

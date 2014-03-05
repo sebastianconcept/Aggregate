@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Indices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"aggregateSize" ],
+	"name" : "ARReverseIndexIterator",
+	"pools" : [
+		 ],
+	"super" : "ARAbstractIndexIterator",
+	"type" : "normal" }

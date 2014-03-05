@@ -1,0 +1,17 @@
+{
+	"category" : "Aggregate-Indices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"className",
+		"selector",
+		"allowsNil",
+		"keySize" ],
+	"name" : "ARClassIndex",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

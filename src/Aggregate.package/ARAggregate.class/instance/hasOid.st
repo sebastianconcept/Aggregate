@@ -1,0 +1,4 @@
+testing
+hasOid
+
+	^ oid notNil

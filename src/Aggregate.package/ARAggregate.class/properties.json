@@ -1,0 +1,17 @@
+{
+	"category" : "Aggregate-Model",
+	"classinstvars" : [
+		"cache" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"id",
+		"isNew",
+		"oid",
+		"isProxied" ],
+	"name" : "ARAggregate",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

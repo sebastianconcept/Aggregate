@@ -1,0 +1,4 @@
+accessing
+currentTransaction 
+
+	^ OmniBase currentTransaction 

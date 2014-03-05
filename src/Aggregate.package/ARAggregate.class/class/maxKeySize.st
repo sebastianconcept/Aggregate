@@ -1,0 +1,4 @@
+private
+maxKeySize
+
+	^  255

@@ -1,0 +1,20 @@
+{
+	"category" : "Aggregate-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"dateOfBirth",
+		"description",
+		"father",
+		"mother",
+		"children",
+		"buddy" ],
+	"name" : "ARPersonMock",
+	"pools" : [
+		 ],
+	"super" : "ARPersistentModel",
+	"type" : "normal" }

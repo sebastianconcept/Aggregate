@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Variables",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARDynamicVariable",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARResetingWithOnlineClients",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"defaultEqualitySelector" : "sebastian.sastre 11/19/2009 18:45",
+		"defaultKeys" : "sebastian.sastre 11/21/2009 13:08",
+		"order:" : "sebastian.sastre 11/21/2009 13:05" },
+	"instance" : {
+		"add:" : "sebastiansastre 5/3/2012 11:18",
+		"addAll:" : "sebastian.sastre 3/7/2011 20:25",
+		"fixKeys" : "sebastian.sastre 11/19/2009 18:38",
+		"ifAbsentAdd:" : "sebastiansastre 5/2/2012 15:52",
+		"initializeWithKeys:sortSelector:equalitySelector:" : "sebastian.sastre 11/19/2009 20:13",
+		"remove:" : "sebastian.sastre 3/7/2011 20:25",
+		"removeAllSuchThat:" : "sebastian.sastre 3/7/2011 20:26",
+		"species" : "sebastiansastre 10/13/2011 10:08" } }

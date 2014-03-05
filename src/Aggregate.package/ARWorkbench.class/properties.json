@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARWorkbench",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

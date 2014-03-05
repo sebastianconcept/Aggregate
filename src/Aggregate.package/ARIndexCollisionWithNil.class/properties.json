@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARIndexCollisionWithNil",
+	"pools" : [
+		 ],
+	"super" : "ARError",
+	"type" : "normal" }

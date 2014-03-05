@@ -1,0 +1,4 @@
+testing
+hasPerson
+
+	^ person notNil 

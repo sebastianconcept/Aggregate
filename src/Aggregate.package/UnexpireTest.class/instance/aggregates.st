@@ -1,0 +1,4 @@
+accessing
+aggregates
+
+	^ ARDummyPerson findAll

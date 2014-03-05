@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"all" : "sebastiansastre 1/10/2012 11:56",
+		"findAll" : "sebastiansastre 12/4/2011 21:08",
+		"isAbstract" : "sebastian.sastre 12/4/2009 10:17" },
+	"instance" : {
+		"beDeleted" : "sebastian.sastre 11/19/2009 19:41",
+		"createdOn" : "sebastian.sastre 11/19/2009 19:30",
+		"createdOn:" : "sebastian.sastre 11/19/2009 19:40",
+		"delete" : "sebastiansastre 10/13/2011 09:19",
+		"deleteIfStored" : "sebastian.sastre 11/19/2009 19:55",
+		"initialize" : "sebastiansastre 1/5/2014 21:52",
+		"isDeleted" : "sebastiansastre 12/4/2011 21:08",
+		"isDeleted:" : "sebastian.sastre 11/19/2009 19:40",
+		"markDirty" : "sebastiansastre 1/5/2014 21:52",
+		"onAboutToDelete" : "sebastian.sastre 11/19/2009 19:53",
+		"onAboutToSave" : "sebastiansastre 1/5/2014 21:52",
+		"onAfterDelete" : "sebastian.sastre 3/10/2011 10:13",
+		"reverseSecondsCreatedOn" : "sebastian.sastre 11/19/2009 19:42",
+		"reverseSecondsUpdatedOn" : "sebastian.sastre 11/19/2009 19:42",
+		"secondsCreatedOn" : "sebastian.sastre 11/19/2009 19:42",
+		"secondsUpdatedOn" : "sebastian.sastre 11/19/2009 19:42",
+		"updatedOn" : "sebastian.sastre 11/19/2009 19:31",
+		"updatedOn:" : "sebastian.sastre 11/19/2009 19:40" } }

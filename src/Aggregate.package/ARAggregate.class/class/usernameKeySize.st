@@ -1,0 +1,4 @@
+private
+usernameKeySize
+
+	^ 20

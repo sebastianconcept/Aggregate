@@ -1,0 +1,16 @@
+{
+	"category" : "Aggregate-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pool",
+		"users",
+		"tags" ],
+	"name" : "ARIndexingTest",
+	"pools" : [
+		 ],
+	"super" : "ARAggregateTestCase",
+	"type" : "normal" }

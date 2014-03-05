@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARCantLockOdb",
+	"pools" : [
+		 ],
+	"super" : "ARError",
+	"type" : "normal" }

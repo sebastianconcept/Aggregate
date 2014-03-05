@@ -1,0 +1,4 @@
+testing
+hasSortSelector
+
+	^ sortSelector notNil 

@@ -1,0 +1,4 @@
+accessing
+hash
+	
+	^ id hash

@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-BTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARBTreeInteriorNode",
+	"pools" : [
+		 ],
+	"super" : "BTreeInteriorNode",
+	"type" : "variable" }

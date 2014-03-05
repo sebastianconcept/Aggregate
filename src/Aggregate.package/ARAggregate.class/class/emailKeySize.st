@@ -1,0 +1,4 @@
+private
+emailKeySize
+
+	^ 40

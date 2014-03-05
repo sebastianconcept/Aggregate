@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Introspection",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARCollectionPersistentReader",
+	"pools" : [
+		 ],
+	"super" : "ARPersistentReader",
+	"type" : "normal" }

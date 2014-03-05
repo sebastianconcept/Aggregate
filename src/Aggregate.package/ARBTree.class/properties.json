@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-BTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARBTree",
+	"pools" : [
+		 ],
+	"super" : "BTree",
+	"type" : "normal" }

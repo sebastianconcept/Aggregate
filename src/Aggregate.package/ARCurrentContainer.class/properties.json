@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Variables",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARCurrentContainer",
+	"pools" : [
+		 ],
+	"super" : "ARDynamicVariable",
+	"type" : "normal" }

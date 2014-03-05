@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Introspection",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"introspectee" ],
+	"name" : "ARPersistentIntrospector",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

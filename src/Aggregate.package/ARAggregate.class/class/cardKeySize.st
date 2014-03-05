@@ -1,0 +1,4 @@
+private
+cardKeySize
+
+	^  32

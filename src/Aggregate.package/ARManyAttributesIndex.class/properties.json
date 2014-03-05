@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Indices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARManyAttributesIndex",
+	"pools" : [
+		 ],
+	"super" : "ARAttributeIndex",
+	"type" : "normal" }

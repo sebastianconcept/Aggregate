@@ -1,0 +1,4 @@
+private
+smallIntegerKeySize
+
+	^ 5

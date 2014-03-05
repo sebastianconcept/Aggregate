@@ -1,0 +1,15 @@
+{
+	"category" : "Aggregate-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sebastian.sastre 11/19/2009 20:29",
+	"instvars" : [
+		"containerPolicy",
+		"validations" ],
+	"name" : "ARStorage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Aggregate-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"createdOn",
+		"updatedOn",
+		"isDeleted" ],
+	"name" : "ARPersistentModel",
+	"pools" : [
+		 ],
+	"super" : "ARAggregate",
+	"type" : "normal" }

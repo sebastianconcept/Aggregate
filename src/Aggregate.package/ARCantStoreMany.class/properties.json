@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sebastian.sastre 11/26/2009 11:03",
+	"instvars" : [
+		 ],
+	"name" : "ARCantStoreMany",
+	"pools" : [
+		 ],
+	"super" : "ARError",
+	"type" : "normal" }

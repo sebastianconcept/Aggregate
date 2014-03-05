@@ -1,0 +1,4 @@
+*aggregate
+persistentReaderSupport
+
+	^ ARPersistentReader

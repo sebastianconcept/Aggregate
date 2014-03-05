@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"order:" : "sebastian.sastre 11/21/2009 13:06" },
+	"instance" : {
+		"at:ifAbsent:ifPresent:" : "sebastian.sastre 11/20/2009 12:36",
+		"at:put:" : "sebastian.sastre 11/21/2009 13:40",
+		"fixKeys" : "sebastian.sastre 11/19/2009 18:27",
+		"initializeWithKeys:" : "sebastian.sastre 11/19/2009 20:12",
+		"remove:ifAbsent:" : "sebastian.sastre 11/20/2009 17:28",
+		"removeKey:" : "sebastian.sastre 11/20/2009 17:27" } }

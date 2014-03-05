@@ -1,0 +1,17 @@
+{
+	"category" : "Aggregate-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"username",
+		"email",
+		"person",
+		"tags" ],
+	"name" : "ARDummyUser",
+	"pools" : [
+		 ],
+	"super" : "ARPersistentModel",
+	"type" : "normal" }

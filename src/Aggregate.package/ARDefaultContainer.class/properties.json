@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sebastian.sastre 11/19/2009 20:37",
+	"instvars" : [
+		 ],
+	"name" : "ARDefaultContainer",
+	"pools" : [
+		 ],
+	"super" : "ARContainerPolicy",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Aggregate-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"protection",
+		"support" ],
+	"name" : "ARCache",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

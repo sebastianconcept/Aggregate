@@ -1,0 +1,3 @@
+accessing
+person
+	^ person

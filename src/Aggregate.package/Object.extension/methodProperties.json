@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"deservesPersistentRead" : "sas 10/16/2008 20:15",
+		"persistentReaderSupport" : "sebastiansastre 9/25/2011 02:28" },
+	"instance" : {
+		"aggregate" : "sas 8/26/2008 22:19",
+		"current" : "sebastiansastre 10/5/2011 11:57",
+		"deservesPersistentRead" : "sas 10/16/2008 20:21",
+		"fresh" : "sebastian.sastre 12/11/2010 23:28",
+		"isAggregate" : "sebastian.sastre 2/16/2010 11:44",
+		"isMany" : "sebastian.sastre 11/26/2009 10:59",
+		"persistentRead" : "sas 10/16/2008 19:56",
+		"persistentReader" : "sas 10/16/2008 19:56",
+		"persistentReaderSupport" : "sas 10/16/2008 19:57",
+		"realPersistent" : "sebastian.sastre 11/22/2009 14:03",
+		"subPersistentReadVisits:" : "sas 10/16/2008 20:11" } }

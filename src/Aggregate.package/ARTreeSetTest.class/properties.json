@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARTreeSetTest",
+	"pools" : [
+		 ],
+	"super" : "ARIndexingTest",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subject" ],
+	"name" : "ARError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

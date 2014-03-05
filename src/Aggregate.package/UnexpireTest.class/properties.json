@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "UnexpireTest",
+	"pools" : [
+		 ],
+	"super" : "ARIndexingTest",
+	"type" : "normal" }

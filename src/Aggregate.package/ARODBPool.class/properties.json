@@ -1,0 +1,17 @@
+{
+	"category" : "Aggregate-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sebastian.sastre 11/19/2009 20:31",
+	"instvars" : [
+		"path",
+		"clientsMutex",
+		"busyClients",
+		"idleClients" ],
+	"name" : "ARODBPool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

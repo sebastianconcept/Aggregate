@@ -1,0 +1,14 @@
+{
+	"category" : "Aggregate-Introspection",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARPersistentWriter",
+	"pools" : [
+		 ],
+	"super" : "ARPersistentIntrospector",
+	"type" : "normal" }

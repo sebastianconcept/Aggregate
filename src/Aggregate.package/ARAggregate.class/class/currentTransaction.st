@@ -1,0 +1,4 @@
+private
+currentTransaction
+
+	^ OmniBase currentTransaction

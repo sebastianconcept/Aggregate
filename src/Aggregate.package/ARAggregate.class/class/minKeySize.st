@@ -1,0 +1,4 @@
+private
+minKeySize
+
+	^  5

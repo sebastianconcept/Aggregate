@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"at:named:" : "sebastian.sastre 11/25/2009 16:59",
+		"at:put:" : "sebastian.sastre 11/25/2009 16:49",
+		"at:put:named:" : "sebastian.sastre 11/26/2009 17:23",
+		"initializeProtection" : "sebastian.sastre 11/25/2009 16:35",
+		"initializeSupport" : "sebastian.sastre 11/25/2009 16:39",
+		"isEmpty" : "sebastian.sastre 11/25/2009 23:05",
+		"onTransactionFinished:" : "sebastian.sastre 11/25/2009 17:29",
+		"protection" : "sebastian.sastre 11/25/2009 16:34",
+		"purge" : "sebastian.sastre 11/25/2009 16:43",
+		"purgeAt:" : "sebastian.sastre 11/25/2009 17:00",
+		"removeKey:" : "sebastian.sastre 11/25/2009 16:50",
+		"support" : "sebastian.sastre 11/25/2009 16:38" } }
