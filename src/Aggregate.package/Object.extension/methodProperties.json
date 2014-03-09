@@ -1,18 +1,18 @@
 {
 	"class" : {
-		"deservesPersistentRead" : "SebastianSastre 3/5/2014 17:43:36",
-		"persistentReaderSupport" : "SebastianSastre 3/5/2014 17:43:36" },
+		"deservesPersistentRead" : "SebastianSastre 3/5/2014 20:36:11",
+		"persistentReaderSupport" : "SebastianSastre 3/5/2014 20:36:11" },
 	"instance" : {
-		"aggregate" : "SebastianSastre 3/5/2014 17:43:36",
-		"current" : "SebastianSastre 3/5/2014 17:43:36",
-		"deservesPersistentRead" : "SebastianSastre 3/5/2014 17:43:36",
-		"fresh" : "SebastianSastre 3/5/2014 17:43:36",
-		"isAggregate" : "SebastianSastre 3/5/2014 17:43:36",
-		"isMany" : "SebastianSastre 3/5/2014 17:43:36",
+		"aggregate" : "SebastianSastre 3/5/2014 20:36:11",
+		"current" : "SebastianSastre 3/5/2014 20:36:11",
+		"deservesPersistentRead" : "SebastianSastre 3/5/2014 20:36:11",
+		"fresh" : "SebastianSastre 3/5/2014 20:36:11",
+		"isAggregate" : "SebastianSastre 3/5/2014 20:36:11",
+		"isMany" : "SebastianSastre 3/5/2014 20:36:11",
 		"isNilOrEmpty" : "sebastiansastre 3/5/2014 20:29",
 		"notNilNorEmpty" : "sebastiansastre 3/5/2014 20:21",
-		"persistentRead" : "SebastianSastre 3/5/2014 17:43:36",
-		"persistentReader" : "SebastianSastre 3/5/2014 17:43:36",
-		"persistentReaderSupport" : "SebastianSastre 3/5/2014 17:43:36",
-		"realPersistent" : "SebastianSastre 3/5/2014 17:43:36",
-		"subPersistentReadVisits:" : "SebastianSastre 3/5/2014 17:43:36" } }
+		"persistentRead" : "SebastianSastre 3/5/2014 20:36:11",
+		"persistentReader" : "SebastianSastre 3/5/2014 20:36:11",
+		"persistentReaderSupport" : "SebastianSastre 3/5/2014 20:36:11",
+		"realPersistent" : "SebastianSastre 3/5/2014 20:36:11",
+		"subPersistentReadVisits:" : "SebastianSastre 3/5/2014 20:36:11" } }
