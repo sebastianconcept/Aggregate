@@ -1,8 +1,8 @@
 private
 indices
-	"Answers the indices for this active record 
-	so it performs well for the application using it.
-	Note: repository rebuild is recomended"
+	"Answers the indices for this aggregate
+    so it performs well for the application using it.
+    Note: a repository index rebuild is needed when this definition changes"
 
 	^ super indices
 		add: (ARAttributeIndex new 
