@@ -35,7 +35,8 @@ Saving a new dummy person aggregate
     
 Fetching _all_ dummy person aggregates (and read-only-ish make them sing)
 
-    pool readOnly:[		ARDummyUser findAll do:[:wookie| wookie sayGrroooouuugggaaaghhh]].
+    pool readOnly:[		ARDummyUser findAll do:[:wookie| 
+			wookie sayGrroooouuugggaaaghhh]].
 
 Fetching _Chewbaccas_ that ...
 
@@ -48,11 +49,15 @@ are being...
      	^ self storage find: self where: #firstName is: aName
 
 
-...indexed like this:
+...indexed because they have this class side method:
 
     ARDummyPerson class>>indices    	"Answers the indices for this aggregate
     	so it performs well for the application using it.
     	Note: a repository index rebuild is needed when this definition changes"    	^ super indices		add: (ARAttributeIndex new 				aggregateClass: self; 				selector: #firstName;				keySize: self nameKeySize;				yourself);		yourself
+
+Garbage collect the database
+
+    pool purify
 
 
 ###Performance
