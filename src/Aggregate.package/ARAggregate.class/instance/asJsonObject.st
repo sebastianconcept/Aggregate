@@ -1,4 +1,4 @@
-private
+as yet unclassified
 asJsonObject
 	"Answers a JsonObject with the information of this aggregate.
 	Subaggregates and collections of subaggregates are returned as references"
@@ -8,4 +8,3 @@ asJsonObject
 			content := self instVarNamed: name.
 			json at: name put: content].
 		json ] value: JsonObject new 
-	

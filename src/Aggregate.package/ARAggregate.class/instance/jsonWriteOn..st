@@ -1,14 +1,16 @@
 private
 jsonWriteOn: aStream
 
-	| referencer |
+	| referencer rejected |
 	
 	referencer := [ :referenceable | 
 						JsonObject new 
 							referenceId: referenceable id;
 							aggregateClass: referenceable class name;
 							yourself ].
-
+	"List of instVarNames that should NOT write in the JSON representation."
+	rejected := #(oid).
+	
 	^ ([:json|
 		self class allInstVarNames do:[:name| |content|
 			content := self instVarNamed: name.
@@ -28,6 +30,6 @@ jsonWriteOn: aStream
 							e isAggregate 
 								ifTrue:[referencer value: e]
 								ifFalse:[ e ]]].
-			
-			json at: name put: content].
+			(rejected includes: name asSymbol) ifFalse:[
+				json at: name put: content]].
 		json ] value: JsonObject new) jsonWriteOn: aStream
