@@ -1,4 +1,4 @@
-as yet unclassified
+actions
 asJsonObject
 	"Answers a JsonObject with the information of this aggregate.
 	Subaggregates and collections of subaggregates are returned as references"
