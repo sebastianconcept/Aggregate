@@ -1,13 +1,13 @@
 Aggregate
 =========
 
-Aggregate is a small persistance framework with a clean API that uses [OmniBase](https://github.com/sebastianconcept/OmniBase) as backend
+Aggregate is a small persistance framework with a clean API and full [ACID](http://en.wikipedia.org/wiki/ACID) features that uses [OmniBase](https://github.com/sebastianconcept/OmniBase) as backend and supports [BTree](http://en.wikipedia.org/wiki/B-tree)-based indexing.
 
 ##Motivation
-Having a clean API to use in persistent models. The trade off is biased towards less general but easier to use.
+The motivation for this is to have a clean API to use in persistent models. The trade off is biased towards having something _less general_ but _easier to use_.
 
 ##Applicability
-Whatever you need to save with almost zero configuration and yet, with [ACID](http://en.wikipedia.org/wiki/ACID) features. It uses [OmniBase](https://github.com/sebastianconcept/OmniBase) so I suggest for small repositories (way below <<2TB)
+Whatever you need to save with almost zero configuration and yet, with [ACID](http://en.wikipedia.org/wiki/ACID) features. It uses [OmniBase](https://github.com/sebastianconcept/OmniBase) so I say it should be good for small repositories (by small I mean way below <<2TB)
 
 ###Loading
 
@@ -35,7 +35,8 @@ Saving a new dummy person aggregate
     
 Fetching _all_ dummy person aggregates (and read-only-ish make them sing)
 
-    pool readOnly:[		ARDummyUser findAll do:[:wookie| wookie sayGrroooouuugggaaaghhh]].
+    pool readOnly:[		ARDummyUser findAll do:[:wookie| 
+			wookie sayGrroooouuugggaaaghhh]].
 
 Fetching _Chewbaccas_ that ...
 
@@ -48,16 +49,22 @@ are being...
      	^ self storage find: self where: #firstName is: aName
 
 
-...indexed like this:
+...indexed because they have this class side method:
 
     ARDummyPerson class>>indices    	"Answers the indices for this aggregate
     	so it performs well for the application using it.
     	Note: a repository index rebuild is needed when this definition changes"    	^ super indices		add: (ARAttributeIndex new 				aggregateClass: self; 				selector: #firstName;				keySize: self nameKeySize;				yourself);		yourself
 
+Garbage collect the database
+
+    pool purify
+
 
 ###Performance
 
-It's quite nice. You can take a look at 
+Well is filebased [BTrees](http://en.wikipedia.org/wiki/B-tree) so... 
+
+Go ahed and take a look here:
 
     ARIndexingTest>>benchmarksBasic
 

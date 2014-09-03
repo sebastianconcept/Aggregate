@@ -8,11 +8,20 @@ ensureDateAndTime
 	
 	self class persistentlyMutableInstanceVariables do:[:instVarName| |val|
 		val := self perform: instVarName asSymbol.
-		val class = TimeStamp ifTrue:[
-			val ensurePharo3.
-			self 
-				perform: (instVarName,':') asSymbol 
-				with: (DateAndTime fromSeconds: val asSeconds)]
+
+		val class = Month ifTrue:[
+			(val start hasJdn or:[
+			val start hasJulianDayNumber not ]) ifTrue:[
+				val start ensurePharo3 ] ].
+			
+		(val class = TimeStamp or:[
+		val class = DateAndTime ]) ifTrue:[
+			(val hasJdn or:[
+			val hasJulianDayNumber not ]) ifTrue:[
+				val ensurePharo3.
+				self 
+					perform: (instVarName,':') asSymbol 
+					with: (DateAndTime fromSeconds: val asSeconds) ] ]
 		]
 	
 	

@@ -1,18 +1,18 @@
 {
 	"class" : {
-		"deservesPersistentRead" : "SebastianSastre 3/5/2014 17:43:36",
-		"persistentReaderSupport" : "SebastianSastre 3/5/2014 17:43:36" },
+		"deservesPersistentRead" : "SebastianSastre 3/13/2014 17:24:53",
+		"persistentReaderSupport" : "SebastianSastre 3/13/2014 17:24:53" },
 	"instance" : {
-		"aggregate" : "SebastianSastre 3/5/2014 17:43:36",
-		"current" : "SebastianSastre 3/5/2014 17:43:36",
-		"deservesPersistentRead" : "SebastianSastre 3/5/2014 17:43:36",
-		"fresh" : "SebastianSastre 3/5/2014 17:43:36",
-		"isAggregate" : "SebastianSastre 3/5/2014 17:43:36",
-		"isMany" : "SebastianSastre 3/5/2014 17:43:36",
-		"isNilOrEmpty" : "sebastiansastre 3/5/2014 20:29",
-		"notNilNorEmpty" : "sebastiansastre 3/5/2014 20:21",
-		"persistentRead" : "SebastianSastre 3/5/2014 17:43:36",
-		"persistentReader" : "SebastianSastre 3/5/2014 17:43:36",
-		"persistentReaderSupport" : "SebastianSastre 3/5/2014 17:43:36",
-		"realPersistent" : "SebastianSastre 3/5/2014 17:43:36",
-		"subPersistentReadVisits:" : "SebastianSastre 3/5/2014 17:43:36" } }
+		"aggregate" : "SebastianSastre 3/13/2014 17:24:53",
+		"current" : "SebastianSastre 3/13/2014 17:24:53",
+		"deservesPersistentRead" : "SebastianSastre 3/13/2014 17:24:53",
+		"fresh" : "SebastianSastre 3/13/2014 17:24:53",
+		"isAggregate" : "SebastianSastre 3/13/2014 17:24:53",
+		"isMany" : "SebastianSastre 3/13/2014 17:24:53",
+		"isNilOrEmpty" : "SebastianSastre 3/13/2014 17:24:53",
+		"notNilNorEmpty" : "SebastianSastre 3/13/2014 17:24:53",
+		"persistentRead" : "SebastianSastre 3/13/2014 17:24:53",
+		"persistentReader" : "SebastianSastre 3/13/2014 17:24:53",
+		"persistentReaderSupport" : "SebastianSastre 3/13/2014 17:24:53",
+		"realPersistent" : "SebastianSastre 3/13/2014 17:24:53",
+		"subPersistentReadVisits:" : "SebastianSastre 3/13/2014 17:24:53" } }
