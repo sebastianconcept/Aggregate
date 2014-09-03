@@ -5,6 +5,7 @@
 		"isAbstract" : "SebastianSastre 3/13/2014 17:24:53" },
 	"instance" : {
 		"beDeleted" : "SebastianSastre 3/13/2014 17:24:53",
+		"beUndeleted" : "sebastiansastre 9/2/2014 14:31",
 		"createdOn" : "SebastianSastre 3/13/2014 17:24:53",
 		"createdOn:" : "SebastianSastre 3/13/2014 17:24:53",
 		"delete" : "SebastianSastre 3/13/2014 17:24:53",
@@ -15,10 +16,13 @@
 		"markDirty" : "SebastianSastre 3/13/2014 17:24:53",
 		"onAboutToDelete" : "SebastianSastre 3/13/2014 17:24:53",
 		"onAboutToSave" : "SebastianSastre 3/13/2014 17:24:53",
+		"onAboutToUndelete" : "sebastiansastre 9/2/2014 14:31",
 		"onAfterDelete" : "SebastianSastre 3/13/2014 17:24:53",
+		"onAfterUndelete" : "sebastiansastre 9/2/2014 14:31",
 		"reverseSecondsCreatedOn" : "SebastianSastre 3/13/2014 17:24:53",
 		"reverseSecondsUpdatedOn" : "SebastianSastre 3/13/2014 17:24:53",
 		"secondsCreatedOn" : "SebastianSastre 3/13/2014 17:24:53",
 		"secondsUpdatedOn" : "SebastianSastre 3/13/2014 17:24:53",
+		"undelete" : "sebastiansastre 9/2/2014 14:31",
 		"updatedOn" : "SebastianSastre 3/13/2014 17:24:53",
 		"updatedOn:" : "SebastianSastre 3/13/2014 17:24:53" } }
